@@ -4,7 +4,7 @@
 This project predicts whether a customer will churn (leave the service) using machine learning classification models.
 
 ## 📊 Dataset
-- Source: Kaggle (Telco Customer Churn Dataset)
+- Source: [Kaggle - Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Target Variable: Churn (Yes / No)
 
 ## 🔍 Steps Performed
